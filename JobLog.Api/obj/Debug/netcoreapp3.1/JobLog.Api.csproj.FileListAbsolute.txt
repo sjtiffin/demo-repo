@@ -1,0 +1,5 @@
+C:\Users\Sara\source\repos\JobLog\JobLog.Api\obj\Debug\netcoreapp3.1\JobLog.Api.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\JobLog\JobLog.Api\obj\Debug\netcoreapp3.1\JobLog.Api.AssemblyInfoInputs.cache
+C:\Users\Sara\source\repos\JobLog\JobLog.Api\obj\Debug\netcoreapp3.1\JobLog.Api.AssemblyInfo.cs
+C:\Users\Sara\source\repos\JobLog\JobLog.Api\obj\Debug\netcoreapp3.1\JobLog.Api.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\JobLog\JobLog.Api\obj\Debug\netcoreapp3.1\JobLog.Api.MvcApplicationPartsAssemblyInfo.cache

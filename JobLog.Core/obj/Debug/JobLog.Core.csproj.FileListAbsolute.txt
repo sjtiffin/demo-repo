@@ -1,0 +1,7 @@
+C:\Users\Sara\source\repos\JobLog\JobLog.Core\bin\Debug\JobLog.Core.exe.config
+C:\Users\Sara\source\repos\JobLog\JobLog.Core\bin\Debug\JobLog.Core.exe
+C:\Users\Sara\source\repos\JobLog\JobLog.Core\bin\Debug\JobLog.Core.pdb
+C:\Users\Sara\source\repos\JobLog\JobLog.Core\obj\Debug\JobLog.Core.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\JobLog\JobLog.Core\obj\Debug\JobLog.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\JobLog\JobLog.Core\obj\Debug\JobLog.Core.exe
+C:\Users\Sara\source\repos\JobLog\JobLog.Core\obj\Debug\JobLog.Core.pdb

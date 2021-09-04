@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\JobLog.Api",
+    "\\JobLog.Core",
+    "\\JobLog.Specs"
+  ],
+  "SelectedNode": "\\JobLog.Api\\obj",
+  "PreviewInSolutionExplorer": false
+}
